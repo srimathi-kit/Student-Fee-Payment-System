@@ -1,5 +1,7 @@
 # Student Fee Payment System
 
+**▶️ LIVE DEMO VIDEO:** [Click here to watch the project demonstration](YOUR_VIDEO_LINK_HERE)
+
 ## Overview
 A full-stack student fee management and mock online payment system built for college fee management.
 
